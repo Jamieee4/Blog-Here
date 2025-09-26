@@ -53,8 +53,8 @@ To set up and run this project locally, follow these steps:
 ### Backend Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/NALLICAN/Blog-Here.git
-   cd BlogHere
+   git clone https://github.com/Jamieee4/Blog-Here.git
+   cd Blog-Here
 
 2. Navigate to the backend directory and install dependencies:
    cd server
@@ -93,4 +93,4 @@ Contributions are welcome! If you'd like to improve this project, please follow 
 
 For any questions or feedback, please reach out to:
 
--Nalli Yeshwanth - [yeshwanthnalli8@gmail.com](mailto:yeshwanthnalli8@gmail.com)
+-James Pedapalli - [jamespedapalli@gmail.com](mailto:jamespedapalli@gmail.com)
